@@ -104,6 +104,12 @@ aside {
 }
 
 footer {
+    width: 70%;
+    margin: 0 auto;
+    padding: 3px;
     text-align: center;
-    color: rgba(37, 72, 146)
+    color: rgba(37, 72, 146);
+    border-radius: 5px;
+    background-color: rgb(210, 222, 247);
+    box-shadow: 0 2px 8px 0 rgba(92, 92, 92, 0.2);
 }
