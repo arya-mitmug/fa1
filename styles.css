@@ -6,7 +6,7 @@ body {
 }
 
 #wrapper {
-    width: 50%;
+    width: 60%;
     margin: 0 auto;
     padding: 20px;
     background-color: white;
@@ -36,7 +36,7 @@ header p {
 
 nav {
     float: right;
-    width: 27%;
+    width: 32%;
     padding: 15px;
     background-color: rgb(210, 222, 247);
     border-radius: 10px;
@@ -45,7 +45,7 @@ nav {
 
 nav a {
     margin:5px;
-    padding: 3px;
+    padding: 1px;
     display: inline-block;
     text-decoration: none;
     color: black;
@@ -65,8 +65,8 @@ h2 {
 
 #morning {
     float: right;
-    width: 64%;
-    margin-right: 25px; margin-bottom: 25px;
+    width: 60%;
+    margin-right: 30px; margin-bottom: 25px;
     padding: 15px;
     background-color: rgb(255, 255, 255);
     border-radius: 10px;
