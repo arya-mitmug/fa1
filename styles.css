@@ -1,0 +1,109 @@
+body {
+    padding-top: 10px;
+    text-align: justify;
+    font-family: 'Lexend', sans-serif;
+    background-color: rgb(210, 222, 247);
+}
+
+#wrapper {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+header {
+    margin: 0 auto;
+    margin-bottom: 25px;
+    text-align: center;
+    color: rgba(37, 72, 146);
+    background-image: url(BG_Image.jpg);
+    border-radius: 10px;
+    box-shadow: 0 2px 6px 1px rgba(37, 72, 146, 0.356);
+}
+
+header h1 {
+    margin: 0;
+    font-size: 40px;
+    padding-top: 35px; padding-bottom: 5px;
+}
+
+header p {
+    margin: 0;
+    padding-top: 5px; padding-bottom: 35px;
+}
+
+nav {
+    float: right;
+    width: 27%;
+    padding: 15px;
+    background-color: rgb(210, 222, 247);
+    border-radius: 10px;
+    box-shadow: 0 2px 6px 1px rgba(37, 72, 146, 0.356);
+}
+
+nav a {
+    margin:5px;
+    padding: 3px;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    border-radius: 5px;
+    transition: 0.3s ease-out;
+}
+
+a:hover {
+    padding: 3px;
+    border-radius: 5px;
+    background-color: rgb(146, 171, 224);
+}
+
+h2 {
+    color: rgba(37, 72, 146);
+}
+
+#morning {
+    float: right;
+    width: 64%;
+    margin-right: 25px; margin-bottom: 25px;
+    padding: 15px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0 2px 8px 0 rgba(92, 92, 92, 0.2);
+}
+
+#midday {
+    clear: right;
+    margin-bottom: 25px;
+    padding: 15px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0 2px 8px 0 rgba(92, 92, 92, 0.2);
+}
+
+#highlight {
+    margin-bottom: 25px;
+    padding: 15px;
+    background-color: rgb(210, 222, 247);
+    border-radius: 10px;
+    box-shadow: 0 2px 8px 0 rgba(92, 92, 92, 0.2);
+}
+
+article {
+    clear: left;
+    margin-bottom: 25px;
+    padding: 15px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0 2px 8px 0 rgba(92, 92, 92, 0.2);
+}
+
+aside {
+    clear: right;
+}
+
+footer {
+    text-align: center;
+    
+}
