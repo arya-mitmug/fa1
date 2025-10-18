@@ -6,7 +6,7 @@ body {
 }
 
 #wrapper {
-    width: 65%;
+    width: 75%;
     margin: 0 auto;
     padding: 20px;
     background-color: white;
@@ -65,8 +65,8 @@ h2 {
 
 #morning {
     float: right;
-    width: 62%;
-    margin-right: 25px; margin-bottom: 25px;
+    width: 61%;
+    margin-right: 24px; margin-bottom: 25px;
     padding: 15px;
     background-color: rgb(255, 255, 255);
     border-radius: 10px;
